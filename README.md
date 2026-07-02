@@ -1,3 +1,5 @@
+<img width="1598" height="811" alt="image" src="https://github.com/user-attachments/assets/c7fc3152-4638-4e3b-88a1-56dcbb511a03" />
+
 # 🎨 Basic Mini React Project
 
 A simple and interactive React application that allows users to change the background color of the page with a single click. This project demonstrates the fundamentals of React state management and event handling using a clean, responsive interface.
